@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Happy weekend guys!!! </h2>
+<h2>DevOps is Cool</h2>
 </body>
 </html>
